@@ -1,3 +1,3 @@
-# Just a demo to try git and github
+# Just a demo to try git and GitHub
 
-I am pushing this to github
+I am pushing this to GitHub
